@@ -29,8 +29,8 @@
   <!-- AI/ML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="Hugging Face" width="40" height="40"/> <!-- Hugging Face -->
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="40" height="40"/> <!-- LangChain -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/langchain_logo.png" alt="LangChain" width="40" height="40"/>
 
   <!-- Systems & Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
@@ -42,25 +42,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 
   <!-- GPU / Simulation -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/CUDA_logo.svg" alt="CUDA" width="60" height="40"/> 
-  <img src="https://developer.nvidia.com/sites/default/files/akamai/isaac/isaac_sim_logo.png" alt="Isaac Sim" width="60" height="40"/> <!-- Isaac Sim -->
+  <img src="https://developer.nvidia.com/sites/default/files/akamai/cuda/images/cuda-logo.png" alt="CUDA" width="60" height="40"/>
+  <img src="https://developer.nvidia.com/sites/default/files/akamai/embedded/images/icon-isaac.png" alt="Isaac Sim" width="60" height="40"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adivd&show_icons=true&theme=radical)
+![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adit24dhaya&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adivd&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adit24dhaya&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/adivd/" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya-dhayapulay/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:adivd@csu.fullerton.edu">
+  <a href="mailto:dhayapulay.aditya@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email"/>
   </a>
 </p>
