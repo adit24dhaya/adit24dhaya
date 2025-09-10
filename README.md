@@ -64,4 +64,4 @@
 
 ---
 
-⭐️ *“Always exploring new experiences, one project at a time.”*
+⭐️ *Always exploring new experiences, one project at a time.*
