@@ -1,0 +1,37 @@
+name: Validate README Links
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+      - ".github/workflows/readme-links.yml"
+  pull_request:
+    branches: [main]
+    paths:
+      - "README.md"
+      - ".github/workflows/readme-links.yml"
+  schedule:
+    - cron: "0 9 * * 1"
+  workflow_dispatch:
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check links in README
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --max-retries 2
+            --retry-wait-time 2
+            --accept 200,206,301,302,403,429
+            README.md
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
