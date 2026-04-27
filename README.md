@@ -133,6 +133,7 @@ Voice-driven assistant focused on practical speech-to-task automation workflows.
 - ML Engineer / AI Engineer / Robotics Software Engineer roles  
 - Internship and full-time opportunities  
 - Collaborations in applied AI and intelligent systems
+- Fall 2026 opportunities and research-driven product teams
 
 ---
 
