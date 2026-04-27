@@ -1,98 +1,139 @@
-# Hi, I'm Aditya Varun Dhayapulay (Adi)
+<!-- =========================
+   PROFILE README — ADIT24DHAYA
+========================= -->
 
-M.S. Computer Science @ California State University, Fullerton (GPA: 3.78)  
-AI/ML Engineer | Robotics Simulation | Software Engineering
+<div align="center">
 
-I build production-minded AI systems and full-stack products with a focus on measurable outcomes, clean UX, and reliable delivery.
+# Hi, I'm Aditya Varun Dhayapulay 👋
 
-<p align="left">
-  <a href="https://portfolio-jade-nine-fvlnobmi5c.vercel.app">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/aditya-dhayapulay/">LinkedIn</a> •
-  <a href="mailto:adivd@csu.fullerton.edu">Email</a> •
-  <a href="https://github.com/adit24dhaya">GitHub</a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+%7C+Robotics+Simulation+%7C+Software+Engineering;MS+Computer+Science+%40+CSUF+(GPA+3.78);Building+production-minded+AI+systems+with+real-world+impact" alt="Typing SVG" />
+
+<p>
+  <a href="https://portfolio-jade-nine-fvlnobmi5c.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aditya-dhayapulay/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:adivd@csu.fullerton.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/adit24dhaya"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=adit24dhaya&style=flat-square&color=0ea5e9" alt="profile views"/>
+
+</div>
+
 ---
 
-## Experience
+## 🚀 About Me
+
+- 🎓 **M.S. in Computer Science** at **California State University, Fullerton** (GPA: **3.78**)
+- 🔬 Former **AI Research Intern** at **DRDO – Research Centre Imarat (RCI)**
+- 🤖 Interested in **Applied AI**, **Robotics Simulation**, and **Intelligent Systems**
+- 🛠️ I enjoy taking ideas from research/prototype to **usable, production-minded software**
+
+---
+
+## 💼 Experience Highlight
 
 ### AI Research Intern — DRDO, Research Centre Imarat (RCI)
-**Oct 2023 – Feb 2024 | Hyderabad, India**  
-- Conducted applied research on audio anomaly detection using TensorFlow autoencoders.
-- Improved anomaly detection accuracy by **40%**.
-- Reduced model training time by **40%** using CUDA-based GPU acceleration.
-- Built and processed environmental audio datasets for robust model evaluation.
+**Oct 2023 – Feb 2024 | Hyderabad, India**
+
+- Improved audio anomaly detection accuracy by **40%** using TensorFlow autoencoders
+- Reduced training time by **40%** through CUDA-based GPU acceleration
+- Built and processed environmental audio datasets for robust model evaluation
 
 ---
 
-## Featured Projects
+## 🌟 Featured Projects
 
-### Healthcare Agent System
-Multi-agent healthcare decision-support platform with orchestration, retrieval, risk modeling, and explainability workflows.  
-**Tech:** Python, API design, modular agent architecture, testing  
-🔗 https://github.com/adit24dhaya/healthcare-agent-system
+### 🏥 [Healthcare Agent System](https://github.com/adit24dhaya/healthcare-agent-system)
+Multi-agent healthcare decision-support platform with orchestration, retrieval, risk modeling, and explainability.  
+**Tech:** Python, API design, modular agent architecture, testing
 
-### Dog Breed Classification using Deep Learning
-Deep learning classifier using Inception-ResNet-V2 for large-scale dog-breed recognition.  
-**Impact:** **90%+ accuracy** across **120+ breeds**, trained on **10,000+ images**  
-**Tech:** Python, TensorFlow, OpenCV  
-🔗 https://github.com/adit24dhaya/Dog_Breed_Classification
+### 🐶 [Dog Breed Classification](https://github.com/adit24dhaya/Dog_Breed_Classification)
+Deep learning classifier using Inception-ResNet-V2.  
+**Impact:** **90%+ accuracy**, **120+ breeds**, **10,000+ images**  
+**Tech:** Python, TensorFlow, OpenCV
 
-### Sentiment-Based Stock Trading with News Analysis
-AI-driven stock trading simulation using NLP sentiment signals and market data.  
-**Impact:** Improved trade decision accuracy by **15%** via sentiment-informed strategy  
-**Tech:** Python, BERT, NewsAPI, yfinance  
-🔗 https://github.com/adit24dhaya/Stock-Sentiment-Trading-with-News-Analysis
+### 📈 [Stock Sentiment Trading with News Analysis](https://github.com/adit24dhaya/Stock-Sentiment-Trading-with-News-Analysis)
+AI-driven trading simulation with NLP sentiment + market data.  
+**Impact:** **15% improvement** in trade decision accuracy  
+**Tech:** Python, BERT, NewsAPI, yfinance
 
-### Detect Not Hot Dogs
-Food image classification web app with confidence-based predictions and robust API handling.  
-**Tech:** Flask, Hugging Face API, JavaScript, HTML/CSS  
-🔗 https://github.com/adit24dhaya/Detect---Not-Hot-Dogs-with-hugging-face-API
+### 🌭 [Detect Not Hot Dogs](https://github.com/adit24dhaya/Detect---Not-Hot-Dogs-with-hugging-face-API)
+Food image classification web app with confidence-based predictions.  
+**Tech:** Flask, Hugging Face API, JavaScript, HTML/CSS
 
-### Caffinder
-Geolocation-powered cafe discovery app with maps integration and interactive UX.  
-**Tech:** JavaScript, Google Maps API, Places API  
-🔗 https://github.com/adit24dhaya/caffinder
+### ☕ [Caffinder](https://github.com/adit24dhaya/caffinder)
+Geolocation-based cafe discovery app with map integration.  
+**Tech:** JavaScript, Google Maps API, Places API
 
-### Voice Assistance
-Voice-driven assistant focused on practical speech-to-task automation workflows.  
-**Tech:** Python, NLP, speech processing  
-🔗 https://github.com/adit24dhaya/Voice-assitance
+### 🎙️ [Voice Assistance](https://github.com/adit24dhaya/Voice-assitance)
+Voice-driven assistant for practical speech-to-task automation.  
+**Tech:** Python, NLP, speech processing
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Languages:** Python, C++, Java, JavaScript, SQL, HTML/CSS  
-**ML/AI:** PyTorch, TensorFlow, Scikit-learn, Keras, OpenCV, Hugging Face, LangChain, OpenAI API  
-**Data & MLOps:** MLflow, Apache Spark, Power BI, model deployment  
-**Cloud & Systems:** AWS, Google Cloud, Docker, Kubernetes  
-**Web:** Flask, React, Tailwind CSS, REST APIs, Firebase, GitHub Actions  
-**Tools:** Git, Bash, Jupyter, Colab, VS Code, Jira
+<div align="left">
+
+### Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+
+### ML / AI
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
+
+### Cloud / DevOps
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="55" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/>
+
+### Web / Product
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+
+</div>
+
+**Also worked with:** Scikit-learn, Keras, NumPy, pandas, Matplotlib, Hugging Face, LangChain, OpenAI API, MLflow, Apache Spark, GitHub Actions, Tailwind CSS, REST APIs.
 
 ---
 
-## Education
+## 📊 GitHub Analytics
 
-- **California State University, Fullerton** — M.S. in Computer Science (GPA: 3.78), Aug 2024 – Present  
-- **Jawaharlal Nehru Technological University, Hyderabad** — B.Tech in CSE (GPA: 7.87), Aug 2020 – Jul 2024
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adit24dhaya&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adit24dhaya&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=adit24dhaya&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-## GitHub Stats
-![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adit24dhaya&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adit24dhaya&layout=compact&theme=radical)
+## 🧠 Currently Building
 
----
-
-## Currently Building
-- Multi-agent decision systems with explainability and safety-first architecture
-- Applied ML workflows that move from experimentation to usable software
+- Multi-agent AI systems with explainability and safety-aware decision design
+- Applied ML workflows that move from experimentation to deployable software
 - Robotics simulation pipelines for real-world automation use cases
 
 ---
 
-## Open To
+## 🎯 Open To
+
 - ML Engineer / AI Engineer / Robotics Software Engineer roles
 - Internship and full-time opportunities
-- Collaborations in applied AI, autonomous systems, and product-focused ML
+- Collaborations in applied AI and intelligent systems
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=100&section=footer" />
+</div>
