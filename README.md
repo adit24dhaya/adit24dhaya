@@ -140,3 +140,11 @@ Voice-driven assistant focused on practical speech-to-task automation workflows.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:2563eb&height=120&section=footer" />
 </div>
+
+---
+
+## ✅ Repository Automation
+
+- Weekly automated link validation for `README.md`
+- Pull request and push checks for README link health
+- Dependabot updates for GitHub Actions dependencies
