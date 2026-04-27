@@ -1,67 +1,98 @@
-# 👋 Hi, I'm Aditya Varun Dhayapylay (Adi)
+# Hi, I'm Aditya Varun Dhayapulay (Adi)
 
-🎓 Master’s Student in Computer Science @ California State University, Fullerton  
-🤖 Passionate about **AI/ML**, **Robotics Simulation**, and **Software Engineering**  
-💡 Exploring **multi-robot systems** with NVIDIA Isaac Sim and applying **ML/DL models** to real-world problems  
-🌐 Always learning, building, and sharing!
+M.S. Computer Science @ California State University, Fullerton (GPA: 3.78)  
+AI/ML Engineer | Robotics Simulation | Software Engineering
 
----
-
-## 🚀 About Me
-- 🔬 Former **AI Research Intern** at **DRDO – Research Centre Imarat (RCI)**, worked on **audio anomaly detection** using TensorFlow & CUDA (achieved ~40% accuracy improvement).
-- 🦾 Building warehouse automation simulations with **TurtleBot3** in **Isaac Sim** (multi-robot navigation & object transport).
-- 🖥️ Skilled in **AI/ML frameworks, robotics, GPU computing, and scalable cloud systems**.
-- 📝 Strong interest in **Data Engineering pipelines** and **intelligent systems**.
-
----
-
-## 🛠️ Languages and Tools
+I build production-minded AI systems and full-stack products with a focus on measurable outcomes, clean UX, and reliable delivery.
 
 <p align="left">
-  <!-- Core Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-
-  <!-- AI/ML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
-
-  <!-- Systems & Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="40"/>
-
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-
-
+  <a href="https://portfolio-jade-nine-fvlnobmi5c.vercel.app">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/aditya-dhayapulay/">LinkedIn</a> •
+  <a href="mailto:adivd@csu.fullerton.edu">Email</a> •
+  <a href="https://github.com/adit24dhaya">GitHub</a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adit24dhaya&show_icons=true&theme=radical)
+## Experience
 
+### AI Research Intern — DRDO, Research Centre Imarat (RCI)
+**Oct 2023 – Feb 2024 | Hyderabad, India**  
+- Conducted applied research on audio anomaly detection using TensorFlow autoencoders.
+- Improved anomaly detection accuracy by **40%**.
+- Reduced model training time by **40%** using CUDA-based GPU acceleration.
+- Built and processed environmental audio datasets for robust model evaluation.
+
+---
+
+## Featured Projects
+
+### Healthcare Agent System
+Multi-agent healthcare decision-support platform with orchestration, retrieval, risk modeling, and explainability workflows.  
+**Tech:** Python, API design, modular agent architecture, testing  
+🔗 https://github.com/adit24dhaya/healthcare-agent-system
+
+### Dog Breed Classification using Deep Learning
+Deep learning classifier using Inception-ResNet-V2 for large-scale dog-breed recognition.  
+**Impact:** **90%+ accuracy** across **120+ breeds**, trained on **10,000+ images**  
+**Tech:** Python, TensorFlow, OpenCV  
+🔗 https://github.com/adit24dhaya/Dog_Breed_Classification
+
+### Sentiment-Based Stock Trading with News Analysis
+AI-driven stock trading simulation using NLP sentiment signals and market data.  
+**Impact:** Improved trade decision accuracy by **15%** via sentiment-informed strategy  
+**Tech:** Python, BERT, NewsAPI, yfinance  
+🔗 https://github.com/adit24dhaya/Stock-Sentiment-Trading-with-News-Analysis
+
+### Detect Not Hot Dogs
+Food image classification web app with confidence-based predictions and robust API handling.  
+**Tech:** Flask, Hugging Face API, JavaScript, HTML/CSS  
+🔗 https://github.com/adit24dhaya/Detect---Not-Hot-Dogs-with-hugging-face-API
+
+### Caffinder
+Geolocation-powered cafe discovery app with maps integration and interactive UX.  
+**Tech:** JavaScript, Google Maps API, Places API  
+🔗 https://github.com/adit24dhaya/caffinder
+
+### Voice Assistance
+Voice-driven assistant focused on practical speech-to-task automation workflows.  
+**Tech:** Python, NLP, speech processing  
+🔗 https://github.com/adit24dhaya/Voice-assitance
+
+---
+
+## Tech Stack
+
+**Languages:** Python, C++, Java, JavaScript, SQL, HTML/CSS  
+**ML/AI:** PyTorch, TensorFlow, Scikit-learn, Keras, OpenCV, Hugging Face, LangChain, OpenAI API  
+**Data & MLOps:** MLflow, Apache Spark, Power BI, model deployment  
+**Cloud & Systems:** AWS, Google Cloud, Docker, Kubernetes  
+**Web:** Flask, React, Tailwind CSS, REST APIs, Firebase, GitHub Actions  
+**Tools:** Git, Bash, Jupyter, Colab, VS Code, Jira
+
+---
+
+## Education
+
+- **California State University, Fullerton** — M.S. in Computer Science (GPA: 3.78), Aug 2024 – Present  
+- **Jawaharlal Nehru Technological University, Hyderabad** — B.Tech in CSE (GPA: 7.87), Aug 2020 – Jul 2024
+
+---
+
+## GitHub Stats
+![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adit24dhaya&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adit24dhaya&layout=compact&theme=radical)
 
 ---
 
-## 📫 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/aditya-dhayapulay/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="mailto:dhayapulay.aditya@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email"/>
-  </a>
-</p>
+## Currently Building
+- Multi-agent decision systems with explainability and safety-first architecture
+- Applied ML workflows that move from experimentation to usable software
+- Robotics simulation pipelines for real-world automation use cases
 
 ---
 
-⭐️ *Always exploring new experiences, one project at a time.*
+## Open To
+- ML Engineer / AI Engineer / Robotics Software Engineer roles
+- Internship and full-time opportunities
+- Collaborations in applied AI, autonomous systems, and product-focused ML
