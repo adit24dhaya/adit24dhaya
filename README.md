@@ -111,7 +111,11 @@ Voice-driven assistant focused on practical speech-to-task automation workflows.
 ## 🐍 Contribution Snake (Dynamic)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/adit24dhaya/adit24dhaya/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adit24dhaya/adit24dhaya/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adit24dhaya/adit24dhaya/output/snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/adit24dhaya/adit24dhaya/output/snake.svg" />
+  </picture>
 </div>
 
 ---
