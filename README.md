@@ -98,12 +98,7 @@ Voice-driven assistant focused on practical speech-to-task automation workflows.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adit24dhaya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adit24dhaya&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=adit24dhaya&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=adit24dhaya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats card" />
 </div>
 
 ---
