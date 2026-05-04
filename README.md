@@ -98,7 +98,18 @@ Voice-driven assistant focused on practical speech-to-task automation workflows.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=adit24dhaya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats card" />
+  <a href="https://github.com/adit24dhaya?tab=overview&from=2025-01-01&to=2025-12-31">
+    <img src="https://img.shields.io/badge/Contributions-View_Overview-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Contribution overview badge" />
+  </a>
+  <a href="https://github.com/adit24dhaya?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Browse-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Repositories badge" />
+  </a>
+  <a href="https://github.com/adit24dhaya?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-See_Profile-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Followers badge" />
+  </a>
+  <a href="https://github.com/adit24dhaya?tab=stars">
+    <img src="https://img.shields.io/badge/Starred-View-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Starred repositories badge" />
+  </a>
 </div>
 
 ---
