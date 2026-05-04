@@ -98,11 +98,9 @@ Voice-driven assistant focused on practical speech-to-task automation workflows.
 ## 📊 GitHub Profile
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adit24dhaya&theme=dark&column=7&margin-w=15" alt="GitHub trophies" />
-</div>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/adit24dhaya" alt="GitHub contribution graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adit24dhaya&theme=dark" alt="GitHub profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adit24dhaya&theme=dark" alt="GitHub stats summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adit24dhaya&theme=dark" alt="GitHub language summary" />
 </div>
 
 <div align="center">
