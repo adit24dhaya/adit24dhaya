@@ -98,8 +98,15 @@ Voice-driven assistant focused on practical speech-to-task automation workflows.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adit24dhaya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats card" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adit24dhaya&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages card" />
+  <a href="https://github.com/adit24dhaya">
+    <img src="https://img.shields.io/github/followers/adit24dhaya?label=Followers&style=for-the-badge&logo=github&color=06b6d4" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/adit24dhaya?tab=repositories">
+    <img src="https://img.shields.io/github/repo-size/adit24dhaya/healthcare-agent-system?label=Repo+size&style=for-the-badge&logo=github&color=0e7490" alt="Repository size" />
+  </a>
+  <a href="https://github.com/adit24dhaya/healthcare-agent-system">
+    <img src="https://img.shields.io/github/last-commit/adit24dhaya/healthcare-agent-system?label=Last+commit&style=for-the-badge&logo=github&color=2563eb" alt="Last commit" />
+  </a>
 </div>
 
 ---
