@@ -98,29 +98,8 @@ Voice-driven assistant focused on practical speech-to-task automation workflows.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <sub>Live profile signals and quick navigation</sub>
-  <br/><br/>
-  <a href="https://github.com/adit24dhaya?tab=followers">
-    <img src="https://img.shields.io/github/followers/adit24dhaya?style=for-the-badge&color=06B6D4&labelColor=0F172A&logo=github&logoColor=white&label=Followers" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/adit24dhaya?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repositories-Explore-0EA5E9?style=for-the-badge&labelColor=0F172A&logo=github&logoColor=white" alt="Public repositories link" />
-  </a>
-  <a href="https://github.com/adit24dhaya?tab=stars">
-    <img src="https://img.shields.io/badge/Starred%20Repositories-Explore-2563EB?style=for-the-badge&labelColor=0F172A&logo=github&logoColor=white" alt="Starred repositories link" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/adit24dhaya?tab=overview&from=2025-01-01&to=2025-12-31">
-    <img src="https://img.shields.io/badge/Contribution%20Graph-Open%20View-0891B2?style=flat-square&labelColor=111827&logo=github&logoColor=white" alt="Contribution graph link" />
-  </a>
-  <a href="https://github.com/adit24dhaya?tab=repositories&q=&type=source&language=python&sort=stargazers">
-    <img src="https://img.shields.io/badge/Top%20Python%20Repos-Open%20View-1D4ED8?style=flat-square&labelColor=111827&logo=python&logoColor=white" alt="Top Python repositories" />
-  </a>
-  <a href="https://github.com/adit24dhaya?tab=overview&from=2026-01-01&to=2026-12-31">
-    <img src="https://img.shields.io/badge/2026%20Contribution%20Activity-Open%20View-0284C7?style=flat-square&labelColor=111827&logo=githubactions&logoColor=white" alt="2026 activity link" />
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adit24dhaya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats card" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adit24dhaya&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages card" />
 </div>
 
 ---
