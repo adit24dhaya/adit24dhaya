@@ -95,18 +95,18 @@ Voice-driven assistant focused on practical speech-to-task automation workflows.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Profile
 
 <div align="center">
-  <a href="https://github.com/adit24dhaya">
-    <img src="https://img.shields.io/github/followers/adit24dhaya?label=Followers&style=for-the-badge&logo=github&color=06b6d4" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/adit24dhaya?tab=repositories">
-    <img src="https://img.shields.io/github/repo-size/adit24dhaya/healthcare-agent-system?label=Repo+size&style=for-the-badge&logo=github&color=0e7490" alt="Repository size" />
-  </a>
-  <a href="https://github.com/adit24dhaya/healthcare-agent-system">
-    <img src="https://img.shields.io/github/last-commit/adit24dhaya/healthcare-agent-system?label=Last+commit&style=for-the-badge&logo=github&color=2563eb" alt="Last commit" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=adit24dhaya&theme=dark&column=7&margin-w=15" alt="GitHub trophies" />
+</div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/adit24dhaya" alt="GitHub contribution graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adit24dhaya&theme=dark&hide_border=true&date_format=%Y-%m-%d" alt="GitHub streak stats" />
 </div>
 
 ---
