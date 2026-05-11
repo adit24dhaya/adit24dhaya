@@ -7,7 +7,7 @@
 
 # Hi, I'm Aditya Varun Dhayapulay 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=920&lines=I+build+AI+systems+that+ship.;From+research+ideas+to+production-minded+software.;MS+CS+%40+CSUF+%7C+AI%2FML+%7C+Robotics+Simulation" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=920&lines=I+build+AI+systems+that+ship.;From+research+ideas+to+production-minded+software.;Fall+2026+AI%2FML+Internship+Search" alt="Typing animation" />
 
 <br/>
 
@@ -39,6 +39,7 @@
 - 🔬 Former **AI Research Intern** at **DRDO – Research Centre Imarat (RCI)**
 - 🤖 Passionate about **Applied AI/ML**, **Robotics Simulation**, and **intelligent software systems**
 - 🛠️ I enjoy turning research ideas into clean, reliable, production-minded products
+- 🎯 Open to **Fall 2026 AI/ML internships**; F-1 student with **OPT eligibility after Dec 2026 graduation**
 
 ---
 
@@ -57,29 +58,22 @@
 
 ### 🏥 [Healthcare Agent System](https://github.com/adit24dhaya/healthcare-agent-system)
 Multi-agent healthcare decision-support platform with orchestration, retrieval, risk modeling, and explainability workflows.  
-**Tech:** Python, modular agents, API design, testing
-
-### 🐶 [Dog Breed Classification](https://github.com/adit24dhaya/Dog_Breed_Classification)
-Deep learning classifier built with Inception-ResNet-V2.  
-**Impact:** **90%+ accuracy**, **120+ breeds**, **10,000+ images**  
-**Tech:** Python, TensorFlow, OpenCV
+**Tech:** Python, FastAPI, Streamlit, ChromaDB, SHAP, OpenAI API, testing
 
 ### 📈 [Stock Sentiment Trading with News Analysis](https://github.com/adit24dhaya/Stock-Sentiment-Trading-with-News-Analysis)
 AI-driven stock trading simulation using NLP sentiment and market signals.  
 **Impact:** **15% improvement** in trade decision accuracy  
 **Tech:** Python, BERT, NewsAPI, yfinance
 
-### 🌭 [Detect Not Hot Dogs](https://github.com/adit24dhaya/Detect---Not-Hot-Dogs-with-hugging-face-API)
-Food image classification app with confidence-based predictions and responsive UI.  
-**Tech:** Flask, Hugging Face API, JavaScript, HTML/CSS
+### 🎧 [Audio Anomaly Detection](https://github.com/adit24dhaya/audio_anomaly)
+TensorFlow autoencoder pipeline for detecting anomalous fan audio from mel-spectrogram features.
+**Impact:** **40% accuracy improvement** in anomaly detection workflow
+**Tech:** Python, TensorFlow, Keras, Librosa, scikit-learn
 
-### ☕ [Caffinder](https://github.com/adit24dhaya/caffinder)
-Geolocation-powered cafe discovery app with Google Maps and Places integration.  
-**Tech:** JavaScript, Google Maps API, Places API
-
-### 🎙️ [Voice Assistance](https://github.com/adit24dhaya/Voice-assitance)
-Voice-driven assistant focused on practical speech-to-task automation workflows.  
-**Tech:** Python, NLP, speech processing
+### 🐶 [Dog Breed Classification](https://github.com/adit24dhaya/Dog_Breed_Classification)
+Deep learning classifier built with Inception-ResNet-V2.
+**Impact:** **90%+ accuracy**, **120+ breeds**, **10,000+ images**
+**Tech:** Python, TensorFlow, OpenCV
 
 ---
 
@@ -124,17 +118,17 @@ Voice-driven assistant focused on practical speech-to-task automation workflows.
 ## 🧠 Currently Building
 
 - Multi-agent decision systems with explainability and safety-aware reasoning  
-- Applied ML workflows from experimentation to deployable software  
+- LLM and RAG workflows from experimentation to deployable software
 - Robotics simulation pipelines for real-world automation scenarios
 
 ---
 
 ## 🎯 Open To
 
-- ML Engineer / AI Engineer / Robotics Software Engineer roles  
-- Internship and full-time opportunities  
+- Fall 2026 AI/ML internships
+- ML Engineer / AI Engineer / LLM Engineer roles
+- F-1 student; OPT eligible after Dec 2026 graduation
 - Collaborations in applied AI and intelligent systems
-- Fall 2026 opportunities and research-driven product teams
 
 ---
 
