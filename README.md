@@ -38,7 +38,7 @@
 ## 🚀 About Me
 
 - 🎓 **M.S. Computer Science** @ **California State University, Fullerton** (GPA **3.78**)
-- 🔬 **Graduate Researcher (EG-RSCA)** — RL-enabled smart manufacturing simulation (Isaac Sim, ROS 2)
+- 🔬 **Graduate Researcher (EG-RSCA Fellow)** — RL-enabled smart manufacturing simulation (Isaac Sim, ROS 2)
 - 🛡️ Former **AI Research Intern** @ **DRDO – Research Centre Imarat (RCI)**
 - 🤖 Focus: **Applied AI/ML**, **multi-agent systems**, **robotics simulation**, and **full-stack product engineering**
 - 🌐 Portfolio: **[github.com/adit24dhaya/portfolio](https://github.com/adit24dhaya/portfolio)** · Next.js, live GitHub activity, recruiter mode
@@ -60,6 +60,15 @@
 - Improved audio anomaly detection accuracy by **40%** with TensorFlow autoencoders
 - Reduced training time by **40%** via **CUDA** GPU acceleration
 - Built and processed environmental sound datasets for robust evaluation
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Timeline | GPA |
+|--------|-------------|----------|-----|
+| **M.S. Computer Science** | California State University, Fullerton | Aug 2024 – Present | 3.78 |
+| **B.Tech Computer Science & Engineering** | JNTU Hyderabad | Aug 2020 – Jul 2024 | 7.87 |
 
 ---
 
@@ -135,7 +144,7 @@ YOLO + transformer fusion research for PCB inspection (metrics, evaluation, publ
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adit24dhaya&theme=dark&hide_border=true&date_format=%Y-%m-%d" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com?user=adit24dhaya&theme=dark&hide_border=true&date_format=%Y-%m-%d" alt="GitHub streak stats" />
 </div>
 
 ---
