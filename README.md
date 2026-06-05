@@ -74,6 +74,11 @@
 
 ## 🌟 Featured Projects
 
+### 💳 [Real-Time Fraud Risk Pipeline](https://github.com/adit24dhaya/fraud-risk-pipeline)
+Production-style fraud scoring on the **IEEE-CIS** dataset — **XGBoost** inference, cost-based thresholding, **Tree SHAP** explainability, **Evidently** drift monitoring, and a live Streamlit workbench backed by a FastAPI service.  
+**Live:** [Streamlit UI](https://adit-txn-risk-pipeline-ui-e2c4483417ee.herokuapp.com/) · [FastAPI docs](https://adit-txn-risk-pipeline-41ee5a80b27b.herokuapp.com/docs)  
+**Tech:** Python, XGBoost, SHAP, FastAPI, Streamlit, Evidently, Docker, Heroku
+
 ### 🏥 [Healthcare Agent System](https://github.com/adit24dhaya/healthcare-agent-system)
 Multi-agent healthcare decision-support with **RAG**, risk modeling, orchestration, and explainability workflows.  
 **Tech:** Python, LLMs, RAG, FastAPI, testing
@@ -116,7 +121,7 @@ YOLO + transformer fusion research for PCB inspection (metrics, evaluation, publ
 |--------|------------|--------------|
 | 🟢 Open | [chroma-core/chroma](https://github.com/chroma-core/chroma/pull/7154) | Enable **mypy** lint in CI |
 | 🟢 Open | [openai/openai-agents-python](https://github.com/openai/openai-agents-python/pull/3458) | **`@function_tool`** on instance methods |
-| 🟢 Open | [skorch-dev/skorch](https://github.com/skorch-dev/skorch/pull/1141) | **`device='auto'`** selection |
+| ✅ Merged | [skorch-dev/skorch](https://github.com/skorch-dev/skorch/pull/1141) | **`device='auto'`** selection |
 | 🟢 Open | [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab/pull/1311) | Opt-in **Datalab placeholder** issue manager |
 | ✅ Merged | [studio-11-co/falsify-inspect](https://github.com/studio-11-co/falsify-inspect/pulls?q=is%3Apr+author%3Aadit24dhaya) | CLI fixes, MMLU-Pro example, docs |
 | ✅ Merged | [Licinexus/licinexus-mcp](https://github.com/Licinexus/licinexus-mcp/pull/24) | `formatPncpDate` test coverage |
@@ -129,7 +134,7 @@ YOLO + transformer fusion research for PCB inspection (metrics, evaluation, publ
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,mysql,pytorch,tensorflow,opencv,docker,kubernetes,aws,gcp,flask,react,firebase,git&perline=8" />
   <br/>
   <sub>
-    Also: Scikit-learn, Hugging Face, LangChain, OpenAI API, MLflow, Apache Spark, Tailwind CSS, Next.js, ROS 2, GitHub Actions, pytest, mypy
+    Also: Scikit-learn, XGBoost, SHAP, Hugging Face, LangChain, OpenAI API, MLflow, Evidently, Streamlit, Apache Spark, Tailwind CSS, Next.js, ROS 2, GitHub Actions, pytest, mypy
   </sub>
 </div>
 
@@ -161,21 +166,20 @@ YOLO + transformer fusion research for PCB inspection (metrics, evaluation, publ
 
 ---
 
-## 🧠 Currently Building
+## 🧠 Currently Focused On
 
-- **Healthcare multi-agent** systems with RAG and explainability  
-- **Open-source ML tooling** contributions (CI, APIs, data quality)  
-- **Isaac Sim + ROS 2** smart manufacturing research at CSUF  
-- **[Portfolio site](https://github.com/adit24dhaya/portfolio)** — live GitHub activity & recruiter mode
+- 🎯 **Actively interviewing** — preparing for AI/ML & software engineering roles  
+- 📚 Sharpening **DSA, system design, and ML fundamentals** for interviews  
+- 🧩 Polishing flagship projects: **[fraud-risk-pipeline](https://github.com/adit24dhaya/fraud-risk-pipeline)**, **[healthcare-agent-system](https://github.com/adit24dhaya/healthcare-agent-system)**, and my **[portfolio site](https://github.com/adit24dhaya/portfolio)**
 
 ---
 
 ## 🎯 Open To
 
-- **Fall 2026** AI/ML internships and new-grad roles  
-- **ML Engineer / AI Engineer / Robotics Software** positions  
+- 🚀 **Actively applying** for **Fall 2026 / new-grad** AI/ML & SWE roles  
+- **ML Engineer / AI Engineer / Software Engineer / Robotics Software** positions  
 - F-1 student · **OPT eligible** after Dec 2026 graduation  
-- Collaborations in applied AI, agents, and intelligent systems
+- 📬 Reach out — résumé and references available on request
 
 ---
 
