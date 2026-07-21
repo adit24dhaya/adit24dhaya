@@ -1,0 +1,41 @@
+name: Generate Profile Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout stats branch
+        uses: actions/checkout@v4
+        with:
+          ref: stats
+
+      - name: Generate profile summary card
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: userstats.svg
+          colors: dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak stats card
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=adit24dhaya&theme=dark&hide_border=true&date_format=%Y-%m-%d
+          path: streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit streak card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add streak.svg
+          git diff --staged --quiet || git commit -m "chore: update streak stats"
+          git push

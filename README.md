@@ -143,13 +143,11 @@ YOLO + transformer fusion research for PCB inspection (metrics, evaluation, publ
 ## 📊 GitHub Profile
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adit24dhaya&theme=dark" alt="GitHub profile summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adit24dhaya&theme=dark" alt="GitHub stats summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adit24dhaya&theme=dark" alt="GitHub language summary" />
+  <img src="https://raw.githubusercontent.com/adit24dhaya/adit24dhaya/stats/userstats.svg" alt="GitHub profile stats" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=adit24dhaya&theme=dark&hide_border=true&date_format=%Y-%m-%d" alt="GitHub streak stats" />
+  <img src="https://raw.githubusercontent.com/adit24dhaya/adit24dhaya/stats/streak.svg" alt="GitHub streak stats" />
 </div>
 
 ---
