@@ -8,7 +8,7 @@ I build applied AI systems spanning computer vision, robotics simulation, and pr
 
 ## About
 
-- M.S. in Computer Science candidate, California State University, Fullerton (Aug 2026, GPA 3.78/4.0)
+- M.S. in Computer Science candidate, California State University, Fullerton (Aug 2026, GPA 3.8/4.0)
 - EG-RSCA Graduate Researcher building a physics-grounded smart-manufacturing digital twin in NVIDIA Isaac Sim and ROS 2
 - First author of an accepted ESCS'26 / CSCE'26 paper on real-time PCB defect detection
 - Former AI Research Intern at DRDO's Research Centre Imarat, focused on industrial audio anomaly detection
