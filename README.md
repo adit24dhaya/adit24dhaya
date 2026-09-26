@@ -2,9 +2,6 @@
 
 **Embedded Software Engineer | Robotics | Edge AI**
 
-<a href="https://github.com/adit24dhaya/portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-</a>
 <a href="https://portfolio-jade-nine-fvlnobmi5c.vercel.app">
   <img src="https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Site" />
 </a>
@@ -16,24 +13,6 @@
 </a>
 
 I build embedded and robotics systems with C/C++17, Embedded Linux, ARM, NVIDIA Jetson, and ROS 2. My work spans sensor integration, system debugging, performance optimization, and edge AI with CUDA/TensorRT, backed by experience in automotive embedded systems.
-
-## Experience
-
-### NVIDIA
-
-**Embedded Software Engineer - Robotics**\
-Aug 2025 – Present
-
-- Develop robotics software with C++17, Jetson, Embedded Linux, ARM64, and ROS 2; work with CUDA, TensorRT, and DeepStream for edge AI.
-- Integrate cameras, LiDAR, and IMUs across BSP and hardware/software interfaces, with a focus on multithreading, IPC, debugging, performance optimization, and automated testing.
-
-### L&T Technology Services
-
-**Automotive Embedded Software Engineer**\
-Jul 2022 – Jun 2024
-
-- Developed automotive software with Embedded C/C++, FreeRTOS, and AUTOSAR Classic; worked with CAN/CAN-FD, UDS, and SPI/I2C/UART interfaces.
-- Used GDB/JTAG and CANoe/CANalyzer for debugging and SIL/HIL testing, following MISRA C and ISO 26262-oriented development practices.
 
 ## Education
 
