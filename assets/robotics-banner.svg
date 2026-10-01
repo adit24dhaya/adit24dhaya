@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Sense. Plan. Move.</title>
+  <desc id="desc">A robotics blueprint with sensor rings, an autonomous navigation path, and a mobile robot on a dark navy grid.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#122636"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#294454" stroke-width="0.6"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1200" height="260" rx="18"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="260" fill="url(#background)"/>
+    <rect width="1200" height="260" fill="url(#grid)" opacity="0.45"/>
+    <rect width="6" height="260" fill="url(#accent)"/>
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+      <text x="52" y="58" fill="#5eead4" font-size="14" font-weight="600" letter-spacing="3">ROBOTICS / AUTONOMOUS SYSTEMS</text>
+      <text x="48" y="133" fill="#f0f6fc" font-size="62" font-weight="700" letter-spacing="-2">Sense. Plan. Move.</text>
+      <text x="52" y="177" fill="#b7cbd9" font-size="21">From sensor data to reliable robot behavior.</text>
+      <g font-size="12" font-weight="600" letter-spacing="1.5" fill="#94b2c6">
+        <text x="52" y="224">PERCEPTION</text>
+        <circle cx="181" cy="219" r="2" fill="#5eead4"/>
+        <text x="199" y="224">NAVIGATION</text>
+        <circle cx="330" cy="219" r="2" fill="#5eead4"/>
+        <text x="348" y="224">EDGE AI</text>
+      </g>
+    </g>
+    <g transform="translate(755 0)">
+      <g fill="none" stroke="#356274" stroke-width="1">
+        <circle cx="227" cy="127" r="112" opacity="0.4"/>
+        <circle cx="227" cy="127" r="83" opacity="0.6"/>
+        <circle cx="227" cy="127" r="53" opacity="0.8"/>
+        <path d="M227 9V245M108 127H346" stroke-dasharray="3 7"/>
+      </g>
+      <g fill="#193746" stroke="#527789">
+        <rect x="62" y="69" width="47" height="48" rx="5"/>
+        <rect x="306" y="173" width="52" height="33" rx="5"/>
+        <rect x="269" y="34" width="55" height="34" rx="5"/>
+      </g>
+      <path d="M31 202H113Q139 202 139 177V153Q139 127 168 127H225Q250 127 260 109L278 90H366" fill="none" stroke="#5eead4" stroke-width="3" stroke-linecap="round" stroke-dasharray="6 8"/>
+      <circle cx="31" cy="202" r="6" fill="#122636" stroke="#5eead4" stroke-width="2"/>
+      <circle cx="366" cy="90" r="12" fill="#122636" stroke="#7dd3fc" stroke-width="2"/>
+      <circle cx="366" cy="90" r="4" fill="#7dd3fc"/>
+      <g transform="translate(227 127) rotate(-24)">
+        <path d="M0 0L76 -34A83 83 0 0 1 76 34Z" fill="#5eead4" opacity="0.08"/>
+        <rect x="-27" y="-21" width="54" height="42" rx="11" fill="#183e4b" stroke="#5eead4" stroke-width="2"/>
+        <rect x="-17" y="-27" width="17" height="6" rx="2" fill="#94b2c6"/>
+        <rect x="-17" y="21" width="17" height="6" rx="2" fill="#94b2c6"/>
+        <circle r="8" fill="#0b1220" stroke="#7dd3fc" stroke-width="2"/>
+        <path d="M13 -6L21 0L13 6" fill="none" stroke="#f0f6fc" stroke-width="2"/>
+      </g>
+      <g fill="#7dd3fc">
+        <circle cx="165" cy="62" r="3"/>
+        <circle cx="184" cy="52" r="2"/>
+        <circle cx="321" cy="126" r="3"/>
+        <circle cx="315" cy="145" r="2"/>
+        <circle cx="194" cy="204" r="3"/>
+      </g>
+    </g>
+  </g>
+</svg>
